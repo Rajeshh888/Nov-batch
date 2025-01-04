@@ -39,7 +39,7 @@ switch(day) {
         count++;
     }
 
-    //do while
+    //do while loop
     let number=1;
 
     do {
